@@ -1,0 +1,2 @@
+# seo
+THIS SI MY FIRST PROJECT
